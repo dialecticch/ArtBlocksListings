@@ -1,0 +1,101 @@
+"id","eye color","eye color percent","eyebrows","eyebrows percent","main color","main color percent","mouth","mouth percent","species","species percent","world","world percent","rarity","rank","id again"
+0,"light blue",19,"none",44,"blue",16,"surprised",11,"stegosaur",28,"beach",23,"0.009475558400000002115537",64,0
+1,"light purple",20,"angry",18,"black",15,"meh",19,"velociraptor",20,"vulcanic",17,"0.003488400000000000875100",18,1
+2,"light purple",20,"neutral",11,"green",23,"sad",7,"diplodocus",14,"vulcanic",17,"0.000842996000000000370034",4,2
+3,"light purple",20,"none",44,"blue",16,"beak",38,"triceratops",21,"mountain",15,"0.016853759999999998880904",84,3
+4,"green",21,"none",44,"purple",8,"beak",38,"triceratops",21,"acqua",21,"0.012387513599999998639700",73,4
+5,"light purple",20,"none",44,"purple",8,"beak",38,"triceratops",21,"beach",23,"0.012921216000000000992398",74,5
+6,"green",21,"neutral",11,"blue",16,"meh",19,"stegosaur",28,"mountain",15,"0.002949407999999999717422",13,6
+7,"light purple",20,"sad",27,"purple",8,"beak",38,"velociraptor",20,"mountain",15,"0.004924800000000000878286",30,7
+8,"green",21,"none",44,"red",11,"beak",38,"stegosaur",28,"acqua",21,"0.022710441600000002421167",93,8
+9,"light purple",20,"sad",27,"blue",16,"meh",19,"velociraptor",20,"vulcanic",17,"0.005581440000000001747105",38,9
+10,"dark blue",18,"none",44,"orange",11,"surprised",11,"diplodocus",14,"beach",23,"0.003085790400000001151154",14,10
+11,"light blue",19,"sad",27,"brown",14,"happy",25,"t-rex",17,"beach",23,"0.007020405000000001262406",52,11
+12,"red",14,"sad",27,"blue",16,"happy",25,"velociraptor",20,"forest",24,"0.007257600000000002070377",54,12
+13,"light blue",19,"none",44,"blue",16,"meh",19,"t-rex",17,"forest",24,"0.010369075199999999367662",67,13
+14,"dark purple",8,"angry",18,"brown",14,"beak",38,"stegosaur",28,"mountain",15,"0.003217536000000000007137",16,14
+15,"dark purple",8,"none",44,"orange",11,"meh",19,"velociraptor",20,"acqua",21,"0.003089855999999999765920",15,15
+16,"light blue",19,"none",44,"green",23,"meh",19,"stegosaur",28,"forest",24,"0.024550310400000000671250",98,16
+17,"red",14,"angry",18,"brown",14,"meh",19,"stegosaur",28,"forest",24,"0.004504550400000001397771",25,17
+18,"dark purple",8,"none",44,"orange",11,"meh",19,"stegosaur",28,"vulcanic",17,"0.003501836800000001064664",19,18
+19,"green",21,"sad",27,"green",23,"happy",25,"stegosaur",28,"beach",23,"0.020996010000000005918386",91,19
+20,"dark blue",18,"angry",18,"black",15,"happy",25,"stegosaur",28,"vulcanic",17,"0.005783400000000001039968",42,20
+21,"light blue",19,"none",44,"green",23,"beak",38,"t-rex",17,"mountain",15,"0.018631931999999996885098",87,21
+22,"green",21,"sad",27,"brown",14,"happy",25,"diplodocus",14,"forest",24,"0.006667920000000000790852",48,22
+23,"light blue",19,"neutral",11,"blue",16,"surprised",11,"velociraptor",20,"mountain",15,"0.001103520000000000412035",7,23
+24,"red",14,"none",44,"red",11,"surprised",11,"stegosaur",28,"forest",24,"0.005008819200000001227446",32,24
+25,"dark blue",18,"angry",18,"black",15,"beak",38,"triceratops",21,"vulcanic",17,"0.006593075999999999797785",47,25
+26,"light blue",19,"neutral",11,"green",23,"meh",19,"diplodocus",14,"vulcanic",17,"0.002173725400000000619605",10,26
+27,"dark blue",18,"none",44,"green",23,"beak",38,"t-rex",17,"acqua",21,"0.024711825599999997365996",99,27
+28,"red",14,"none",44,"black",15,"meh",19,"stegosaur",28,"forest",24,"0.011797632000000002339135",71,28
+29,"light blue",19,"none",44,"blue",16,"meh",19,"t-rex",17,"vulcanic",17,"0.007344761600000001937338",55,29
+30,"dark blue",18,"sad",27,"orange",11,"happy",25,"stegosaur",28,"mountain",15,"0.005613300000000000754274",39,30
+31,"dark blue",18,"neutral",11,"green",23,"sad",7,"velociraptor",20,"forest",24,"0.001530144000000000208822",9,31
+32,"green",21,"none",44,"brown",14,"happy",25,"stegosaur",28,"acqua",21,"0.019015920000000002126894",89,32
+33,"dark blue",18,"sad",27,"red",11,"happy",25,"t-rex",17,"vulcanic",17,"0.003862485000000001004322",22,33
+34,"green",21,"none",44,"green",23,"meh",19,"stegosaur",28,"acqua",21,"0.023742734400000003319731",96,34
+35,"green",21,"none",44,"black",15,"beak",38,"triceratops",21,"mountain",15,"0.016590419999999998085238",83,35
+36,"light blue",19,"angry",18,"orange",11,"beak",38,"triceratops",21,"beach",23,"0.006904774800000000080369",51,36
+37,"red",14,"none",44,"blue",16,"happy",25,"t-rex",17,"acqua",21,"0.008796480000000000618043",59,37
+38,"light purple",20,"sad",27,"red",11,"beak",38,"triceratops",21,"mountain",15,"0.007110180000000000666294",53,38
+39,"light blue",19,"none",44,"orange",11,"happy",25,"velociraptor",20,"mountain",15,"0.006897000000000000352607",50,39
+40,"light blue",19,"sad",27,"black",15,"beak",38,"diplodocus",14,"acqua",21,"0.008596854000000000994852",58,40
+41,"light blue",19,"angry",18,"albino",2,"beak",38,"triceratops",21,"mountain",15,"0.000818747999999999893396",3,41
+42,"light blue",19,"none",44,"red",11,"happy",25,"diplodocus",14,"mountain",15,"0.004827900000000000420297",29,42
+43,"light purple",20,"none",44,"red",11,"beak",38,"triceratops",21,"mountain",15,"0.011586960000000000314824",70,43
+44,"dark blue",18,"sad",27,"green",23,"beak",38,"triceratops",21,"forest",24,"0.021408105599999997792349",92,44
+45,"green",21,"none",44,"green",23,"beak",38,"t-rex",17,"forest",24,"0.032949100799999998800960",100,45
+46,"green",21,"angry",18,"black",15,"happy",25,"diplodocus",14,"beach",23,"0.004564350000000000004419",27,46
+47,"green",21,"sad",27,"green",23,"beak",38,"triceratops",21,"beach",23,"0.023935451400000001820345",97,47
+48,"dark purple",8,"none",44,"orange",11,"beak",38,"triceratops",21,"acqua",21,"0.006488697600000000939580",46,48
+49,"light purple",20,"angry",18,"green",23,"surprised",11,"stegosaur",28,"acqua",21,"0.005355504000000000514037",36,49
+50,"light purple",20,"angry",18,"blue",16,"happy",25,"stegosaur",28,"forest",24,"0.009676800000000001025779",65,50
+51,"dark purple",8,"sad",27,"brown",14,"beak",38,"triceratops",21,"acqua",21,"0.005067619200000000705131",33,51
+52,"light purple",20,"sad",27,"blue",16,"beak",38,"triceratops",21,"forest",24,"0.016547328000000003506154",82,52
+53,"green",21,"neutral",11,"green",23,"happy",25,"stegosaur",28,"forest",24,"0.008925840000000000856728",61,53
+54,"green",21,"angry",18,"green",23,"surprised",11,"stegosaur",28,"acqua",21,"0.005623279200000001060156",40,54
+55,"light purple",20,"angry",18,"black",15,"happy",25,"velociraptor",20,"acqua",21,"0.005669999999999999693023",41,55
+56,"red",14,"none",44,"brown",14,"happy",25,"diplodocus",14,"vulcanic",17,"0.005131280000000001950688",35,56
+57,"green",21,"sad",27,"green",23,"sad",7,"t-rex",17,"vulcanic",17,"0.002638194300000000491746",11,57
+58,"red",14,"sad",27,"purple",8,"beak",38,"triceratops",21,"forest",24,"0.005791564800000001053681",43,58
+59,"light blue",19,"none",44,"red",11,"surprised",11,"velociraptor",20,"vulcanic",17,"0.003439304000000000666182",17,59
+60,"light purple",20,"sad",27,"black",15,"beak",38,"triceratops",21,"acqua",21,"0.013573980000000001114313",76,60
+61,"dark blue",18,"none",44,"blue",16,"surprised",11,"stegosaur",28,"forest",24,"0.009367142400000000312943",63,61
+62,"red",14,"none",44,"black",15,"beak",38,"stegosaur",28,"forest",24,"0.023595264000000004678270",95,62
+63,"red",14,"none",44,"red",11,"happy",25,"velociraptor",20,"forest",24,"0.008131200000000001620881",57,63
+64,"light purple",20,"sad",27,"blue",16,"beak",38,"stegosaur",28,"acqua",21,"0.019305216000000003512271",90,64
+65,"dark purple",8,"none",44,"green",23,"beak",38,"triceratops",21,"vulcanic",17,"0.010983033600000002491526",68,65
+66,"green",21,"angry",18,"blue",16,"happy",25,"velociraptor",20,"mountain",15,"0.004536000000000000101363",26,66
+67,"dark purple",8,"sad",27,"brown",14,"sad",7,"velociraptor",20,"acqua",21,"0.000889056000000000264463",5,67
+68,"light blue",19,"none",44,"purple",8,"happy",25,"t-rex",17,"forest",24,"0.006821760000000000497000",49,68
+69,"dark blue",18,"sad",27,"black",15,"beak",38,"triceratops",21,"forest",24,"0.013961807999999997428886",79,69
+70,"light blue",19,"angry",18,"green",23,"happy",25,"velociraptor",20,"beach",23,"0.009045900000000000815148",62,70
+71,"dark blue",18,"sad",27,"green",23,"beak",38,"diplodocus",14,"beach",23,"0.013677400800000004757462",78,71
+72,"light purple",20,"none",44,"purple",8,"surprised",11,"velociraptor",20,"beach",23,"0.003562240000000000371416",20,72
+73,"light purple",20,"sad",27,"green",23,"beak",38,"triceratops",21,"beach",23,"0.022795668000000001568450",94,73
+74,"red",14,"angry",18,"albino",2,"happy",25,"diplodocus",14,"beach",23,"0.000405720000000000038942",2,74
+75,"light blue",19,"neutral",11,"blue",16,"beak",38,"t-rex",17,"beach",23,"0.004968515200000000672786",31,75
+76,"green",21,"none",44,"orange",11,"meh",19,"t-rex",17,"vulcanic",17,"0.005581052399999999677482",37,76
+77,"dark blue",18,"none",44,"blue",16,"meh",19,"stegosaur",28,"forest",24,"0.016179609599999998648112",81,77
+78,"red",14,"neutral",11,"black",15,"beak",38,"triceratops",21,"beach",23,"0.004239774000000000840627",24,78
+79,"dark blue",18,"neutral",11,"orange",11,"sad",7,"diplodocus",14,"vulcanic",17,"0.000362854800000000129578",1,79
+80,"red",14,"angry",18,"orange",11,"beak",38,"triceratops",21,"acqua",21,"0.004645317599999999706728",28,80
+81,"green",21,"none",44,"green",23,"meh",19,"velociraptor",20,"acqua",21,"0.016959096000000003362507",85,81
+82,"red",14,"sad",27,"purple",8,"happy",25,"stegosaur",28,"vulcanic",17,"0.003598560000000001080772",21,82
+83,"light purple",20,"neutral",11,"green",23,"sad",7,"diplodocus",14,"forest",24,"0.001190112000000000331071",8,83
+84,"light purple",20,"neutral",11,"green",23,"beak",38,"diplodocus",14,"forest",24,"0.006460608000000001363561",44,84
+85,"dark blue",18,"none",44,"black",15,"beak",38,"t-rex",17,"beach",23,"0.017651303999999999605475",86,85
+86,"dark blue",18,"none",44,"black",15,"surprised",11,"stegosaur",28,"acqua",21,"0.007683983999999999606190",56,86
+87,"green",21,"sad",27,"brown",14,"beak",38,"diplodocus",14,"forest",24,"0.010135238400000001410262",66,87
+88,"dark blue",18,"none",44,"red",11,"meh",19,"t-rex",17,"beach",23,"0.006472144800000000260110",45,88
+89,"dark purple",8,"none",44,"red",11,"meh",19,"t-rex",17,"beach",23,"0.002876508800000000115604",12,89
+90,"light blue",19,"angry",18,"green",23,"surprised",11,"velociraptor",20,"beach",23,"0.003980196000000000081109",23,90
+91,"light purple",20,"none",44,"purple",8,"happy",25,"t-rex",17,"vulcanic",17,"0.005086400000000000469480",34,91
+92,"green",21,"none",44,"brown",14,"meh",19,"stegosaur",28,"beach",23,"0.015828489600000002213154",80,92
+93,"light purple",20,"sad",27,"brown",14,"beak",38,"velociraptor",20,"beach",23,"0.013214880000000003498761",75,93
+94,"light blue",19,"angry",18,"red",11,"sad",7,"t-rex",17,"beach",23,"0.001029659400000000179370",6,94
+95,"dark blue",18,"sad",27,"brown",14,"beak",38,"velociraptor",20,"beach",23,"0.011893392000000000893745",72,95
+96,"green",21,"none",44,"brown",14,"happy",25,"stegosaur",28,"mountain",15,"0.013582800000000002510481",77,96
+97,"red",14,"none",44,"orange",11,"happy",25,"stegosaur",28,"forest",24,"0.011383680000000001922289",69,97
+98,"green",21,"sad",27,"brown",14,"meh",19,"stegosaur",28,"acqua",21,"0.008868333600000001884500",60,98
+99,"dark blue",18,"none",44,"black",15,"beak",38,"velociraptor",20,"acqua",21,"0.018960479999999998307336",88,99
